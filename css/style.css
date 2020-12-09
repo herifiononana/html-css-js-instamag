@@ -1,5 +1,8 @@
 nav{
     opacity: 50%;
-    /* position: fixed; */
+}
+
+section{
+    margin-bottom: 5%;
 }
 
