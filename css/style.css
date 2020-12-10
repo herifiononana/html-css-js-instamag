@@ -1,3 +1,11 @@
+body{
+    text-align: justify;
+}
+
+img{
+    max-width: 100%;
+    height: 350px;
+}
 
 section{
     margin-bottom: 5%;
