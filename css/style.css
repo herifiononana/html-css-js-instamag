@@ -11,3 +11,9 @@ section{
     margin-bottom: 5%;
 }
 
+div h5{
+    color: white;
+    background-color: #424242;
+    padding: 2% 2%;
+}
+
